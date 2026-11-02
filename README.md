@@ -1,4 +1,4 @@
-# 📓 Git Journal — Catatan Belajar
+# 📓 Learning Journal
 
 Jurnal perjalanan saya dari Geospatial Engineer ke Full-Stack + GeoAI Engineer.
 Setiap project di roadmap (50 project, dari terminal sampai GeoAI) punya satu catatan di folder [`entries/`](entries/).
